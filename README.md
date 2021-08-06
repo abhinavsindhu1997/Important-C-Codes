@@ -30,7 +30,8 @@ int main()
 
 https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#
 
-```
+```cpp
+
   bool isPossible(int arr[],int n,int m,int barrier)
     {
        int allocatedStudent=1,pages=0,i;
