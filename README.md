@@ -2,7 +2,7 @@
 Leetcode,GeeksForGeeks
 Hello Abhinav 
 
-# ReverseArray.CPP
+## ReverseArray.CPP
 
 https://leetcode.com/problems/integer-to-roman/
 
@@ -26,7 +26,7 @@ int main()
    return 0;
 }
 ```
-#Allocate Minimum Number Of Pages
+## Allocate Minimum Number Of Pages
 
 https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#
 
